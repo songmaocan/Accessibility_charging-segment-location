@@ -1,0 +1,5 @@
+Global_LB: 80.0
+Global_UB: 80.0
+Gap: 0.0
+Time: 63.977476358413696 seconds
+Construction: [1.0, 1.0, 1.0, 1.0, 0.0, 1.0, 1.0, 1.0, 1.0, 1.0]

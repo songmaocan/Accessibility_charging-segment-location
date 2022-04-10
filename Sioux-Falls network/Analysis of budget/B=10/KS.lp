@@ -1,0 +1,12 @@
+\ Model KS
+\ LP format - for model browsing. Use MPS format to capture full model detail.
+Minimize
+  - 12 y_0 - 10 y_1 - 3 y_2 - 10 y_3 - y_4 - 11 y_5 - 11 y_6 - 9 y_7 - 5 y_8
+   - 6 y_9
+Subject To
+ budget: 4 y_0 + 6 y_1 + 2 y_2 + 3 y_3 + 8 y_4 + 4 y_5 + 4 y_6 + 5 y_7
+   + 5 y_8 + 4 y_9 <= 10
+Bounds
+Binaries
+ y_0 y_1 y_2 y_3 y_4 y_5 y_6 y_7 y_8 y_9
+End

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CsvFileAttributes">
+    <option name="attributeMap">
+      <map>
+        <entry key="\Analysis of construction budget B\Q=2,B=1,T=2,a=2\Optimal_routing_solution.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Analysis of construction budget B\Q=2,B=1,T=2,a=2\reduced_costs.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Analysis of construction budget B\Q=2,B=2,T=2,a=2\Optimal_routing_solution.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Analysis of the battery capacity Q\Q=2,B=1,T=2,a=2\Optimal_routing_solution.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Analysis of the battery capacity Q\Q=3,B=1,T=2,a=2\Optimal_routing_solution.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Analysis of the charging speed a\Q=2,B=2,T=2,a=1\Optimal_routing_solution.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Analysis of the charging speed a\Q=2,B=2,T=2,a=1\reduced_costs.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Analysis of the time budget T\Q=2,B=2,T=1,a=2\Optimal_routing_solution.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Analysis of the time budget T\Q=2,B=2,T=2,a=2\Optimal_routing_solution.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Q=2,B=1,T=2,a=0.5\Optimal_routing_solution.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Q=2,B=1,T=2,a=0.5\reduced_costs.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
